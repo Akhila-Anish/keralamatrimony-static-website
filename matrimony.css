@@ -1,0 +1,244 @@
+
+body{
+margin: 0;
+}
+.containor{
+    width: 100%;
+    height: 1200px;
+}
+.header{
+background: rgb(250, 249, 249);
+width: 100%;
+height: 150px;
+
+}
+.logo{
+    width: 40%;
+    height: 70px;
+    
+   }
+.logo_text{
+    font-size: small;
+    float: left;
+    padding-left: 200px;
+    padding-top: 20px;
+    color: darkgrey;
+}
+.logo_image{
+    float: left;
+    padding-left: 200px;
+
+}
+.login{
+    width: 50%;
+    height: 50px;
+    float: right;
+    padding-left: 200px;
+    padding-bottom: 10px;
+}
+.login_text{
+    float: left;
+    padding-left: 100px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.button{
+    
+    color: orange;
+    border-color: orange;
+  
+    outline-color: orange;
+    border-radius: 12px;
+    width: 80px;
+    height: 25px;
+   
+}
+.help_image{
+    size: 23px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.help{
+    font-size: 13px;
+   padding-left: 10px;
+}
+.help_dropdown{
+    width: 13px;
+    height: 7px;
+}
+.main_body{
+    width: 100%;
+    height: 1100px;
+    float: left;
+   
+    background-color:rgb(233, 232, 232) ;
+}
+.col1{
+    float: left;
+    width: 100%;
+    height: 200px;
+}
+.col11{
+     width: 45%;
+     height: 190px;
+     float: left;
+}
+.heading{
+    float: left;
+    padding-left: 70px;
+    color: black;
+    padding-top: 50px;
+}
+.subheading{
+   float: left;
+   
+    color: black;
+    padding-left: 70px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+}
+.col12{
+    width: 50%;
+    height: 80px;
+    float: right;
+    padding-top: 170px;
+    padding-left: 50px;
+}
+
+
+.profile{
+   
+    width: 500px;
+    height: 60px;
+    background: green;
+    float: left;
+   border-radius: 20px;
+   color: white;
+   letter-spacing: 0.66px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 18px; 
+
+}
+
+.col2{
+    width: 50%;
+    height: 700px;
+    float: right;
+    padding-top: 20px;
+}
+
+.form{
+    width: 450px;
+    height: 380px;
+     padding-left: 50px;
+    color: white;
+    background-color: white;
+    border-width: 2px;
+    float: left;
+   
+}
+.formhead{
+    color: black;
+     padding-left:100px;
+     padding-top: 15px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.text1{
+    width: 300px;
+    height: 40px;
+    padding-left: 70px;
+    color: grey;
+}
+.text2{
+    width: 230px;
+    height: 40px;
+    padding-left: 70px;
+    color: grey;
+}
+.text3{
+    width: 180px;
+    height: 40px;
+    padding-left: 40px;
+    color: grey;
+    float: left;
+}
+
+.code_no{
+    width: 80px;
+    height: 42px;
+   float: left;
+    color: grey
+}
+.button2{
+    color: white;
+    border-color: orange;
+    background: orange;
+    outline-color: orange;
+    border-radius: 12px;
+    width: 250px;
+    height: 40px;
+   padding-left: 40px;
+  
+}
+.formbottom{
+    color: dimgrey;
+   
+}
+.col3{
+    width: 50%;
+    height: 500px;
+    float: left;
+    padding-top: 20px;
+}
+.row13{
+    width: 100%;
+    height: 250px;
+}
+.row23{
+    width: 100%;
+    height: 250px;
+}
+.image1{
+    width: 33%;
+    height:200px ;
+    float: left;
+}
+.img1{
+    width: 90%;
+    height: 200px;
+    float: left;
+}
+.image2{
+    width: 33%;
+    height:200px ;
+    float: left;
+}
+.image3{
+    width: 33%;
+    height:200px ;
+    float: left;
+}
+.bottom{
+    width: 100%;
+    height: 70px;
+    float: left;
+    padding-left: 70px;
+    border-bottom: 2px;
+
+}
+.bottom_col{
+    float: left;
+    width: 33%;
+    height: 40px;
+}
+.footer{
+    width: 100%;
+    height: 30px;
+}
+.footertext{
+    float: left;
+    padding: 10px;
+    color: rgb(82, 80, 77);
+    padding-left: 200px;
+}
